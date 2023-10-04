@@ -40,7 +40,7 @@ Foram removidos 10.000 elementos aleatórios em cada árvore.
 
 Apesar de resultados próximos, a Árvore Binária, como na insersão, foi um pouco mais rápida, devido a Árvore AVL ter que rebalancear a árvore após a remoção de um elemento.
 
-#### Conclusão
+### Conclusão
 
 Para operações de inserção, uma Árvore Binária tende a ser mais rápida do que uma Árvore AVL no curto prazo, pois não requer reequilíbrio imediato após a inserção.
 
